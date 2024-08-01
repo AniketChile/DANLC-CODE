@@ -1,0 +1,41 @@
+,,,,CONCATING,,,,Year fun,Month func,Concat,,Sort,Uppercase,Lowercase,Index fun,
+Sr.no,Gr.no,First Name,Last Name,Full Name,Marks Obtained,Total Marks,Gender,Result Year,Result Month,Month-Year,,Marks in Asceding order,Name in Caps,Name in Lower,Index,Match
+1,1001,Arjun,Mhatre,Arjun Mhatre,78,110,M,2024,8,8-2024,,34,ARJUN,arjun,Arjun,1
+2,1002,Omkar,Patil,Omkar Patil,56,110,M,2024,8,8-2024,,53,OMKAR,omkar,Omkar,15
+3,1003,Aniket,Chile,Aniket Chile,76,110,M,2024,8,8-2024,,54,ANIKET,aniket,Aniket,4
+4,1004,Hemanshu,Baviskar,Hemanshu Baviskar,92,110,M,2024,8,8-2024,,56,HEMANSHU,hemanshu,Hemanshu,6
+5,1005,Rex,Baviskar,Rex Baviskar,67,110,M,2024,8,8-2024,,66,REX,rex,Rex,12
+6,1006,Amit,Kahar,Amit Kahar,34,110,M,2024,8,8-2024,,67,AMIT,amit,Amit,1
+7,1007,Gauresh,Chopadekar,Gauresh Chopadekar,66,110,M,2024,8,8-2024,,67,GAURESH,gauresh,Gauresh,1
+8,1008,Numan,Rakhangi,Numan Rakhangi,69,110,M,2024,8,8-2024,,68,NUMAN,numan,Numan,9
+9,1009,Harsh,Shirke,Harsh Shirke,87,110,M,2024,8,8-2024,,69,HARSH,harsh,Harsh,8
+10,1010,Vaibhav,Phalke,Vaibhav Phalke,99,110,M,2024,8,8-2024,,76,VAIBHAV,vaibhav,Vaibhav,7
+11,1011,Pritesh,Mestry,Pritesh Mestry,90,110,M,2024,8,8-2024,,78,PRITESH,pritesh,Pritesh,3
+12,1012,Pratik,Mistry,Pratik Mistry,54,110,M,2024,8,8-2024,,87,PRATIK,pratik,Pratik,5
+13,1013,Mayur,Gadkar,Mayur Gadkar,53,110,M,2024,8,8-2024,,87,MAYUR,mayur,Mayur,4
+14,1014,Shubham,Gothal,Shubham Gothal,67,110,M,2024,8,8-2024,,90,SHUBHAM,shubham,Shubham,3
+15,1015,Aniruddh,Jadeja,Aniruddh Jadeja,68,110,M,2024,8,8-2024,,92,ANIRUDDH,aniruddh,Aniruddh,1
+16,1016,Hariom,Hariom,Hariom Hariom,87,110,M,2024,8,8-2024,,99,HARIOM,hariom,Hariom,1
+Class Strength,16,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,Maximum Marks,,Min Marks,,,,,,,,
+,,,,,,99,,34,,,,,,,,
+,if condition,,sum,,,,,,,,,,,,,
+First Name,Marks,Grace Marks,New Marks,Percentage,,count if,,Average Marks,,,,,,,,
+Arjun,78,0,78,70.91,,No. Of Students Passed,,66.08,,,,,,,,
+Omkar,56,0,56,50.91,,15,,,,,,,,,,
+Aniket,76,0,76,69.09,,16,,Mean,,,,,,,,
+Hemanshu,92,0,92,83.64,,,,69.23289973,,,,,,,,
+Rex,67,0,67,60.91,,No.of Students Failed,,,,,,,,,,
+Amit,Fail,20,54,49.09,,1,,Median,,,,,,,,
+Gauresh,66,0,66,60.00,,0,,68.5,,,,,,,,
+Numan,69,0,69,62.73,,,,,,,,,,,,
+Harsh,87,0,87,79.09,,,,Mode,,,,,,,,
+Vaibhav,99,0,99,90.00,,,,67,,,,,,,,
+Pritesh,90,0,90,81.82,,,,,,,,,,,,
+Pratik,54,0,54,49.09,,,,,,,,,,,,
+Mayur,53,0,53,48.18,,,,,,,,,,,,
+Shubham,67,0,67,60.91,,,,,,,,,,,,
+Aniruddh,68,0,68,61.82,,,,,,,,,,,,
+Hariom,87,0,87,79.09,,,,,,,,,,,,
